@@ -1,7 +1,7 @@
 
 # Baby Monitor with ESP32-CAM
 
-![Baby Monitor](path_to_your_image.png)
+![Baby Monitor](image.jpeg)
 
 ---
 
